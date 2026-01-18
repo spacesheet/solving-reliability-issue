@@ -1,4 +1,4 @@
-# solving-reliability-issue
+# solving-unreliability-issue
 
 - 내부 대용량 트래픽 키워드 서버에서 데이터 실시간 스트리밍 처리 및 배치 보정 (장애+유실)
 
